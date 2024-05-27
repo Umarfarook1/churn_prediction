@@ -56,3 +56,20 @@ After running the script, you will see the training and validation accuracy and 
 
 ### Example Output
 
+Accuracy: 0.82
+Precision: 0.80
+Recall: 0.75
+F1-score: 0.77
+
+
+### Training and Validation Plots
+
+The plots showing training and validation accuracy and loss will be saved as `training_history_tuned.png`.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
